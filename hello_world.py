@@ -1,7 +1,7 @@
 # Hello AI/ML Bootcamp!
 # Edit the variables below to introduce yourself
 
-name = "Denzl the guy"
+name = "Denzl Chapman"
 fun_fact = "i love Data Science & AI"
 
 # Don't change anything below this line
